@@ -21,14 +21,14 @@ spec:
         - name: PORT
           value: "8080"
         - name: ProxySite
-          value: "$ProxySite"
+          value: "03a18a869743.up.railway.app"
         - name: Vless_UUID
-          value: "$Vless_UUID"
+          value: "08053b44-f5e7-48e0-bd93-ed2432f25a0e"
         - name: Vless_Path
-          value: "$Vless_Path"
+          value: "/app"
         - name: Vmess_UUID
-          value: "$Vmess_UUID"
+          value: "08053b44-f5e7-48e0-bd93-ed2432f25a0e"
         - name: Vmess_Path
-          value: "$Vmess_Path"
+          value: "/appvmess"
         - name: Share_Path
-          value: "$Share_Path"
+          value: "/share233"
